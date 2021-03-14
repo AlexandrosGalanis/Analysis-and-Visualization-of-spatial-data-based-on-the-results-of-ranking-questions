@@ -1,0 +1,5 @@
+maxdistance
+
+w1 apostash 
+w2 price
+w3 reviews
